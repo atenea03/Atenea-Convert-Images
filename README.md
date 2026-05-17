@@ -1,7 +1,7 @@
 
    ATENEA IMAGE CONVERTER — Quick Guide v2026
    © 2026 Atenea Store Tools
-
+-----------
 
 WHAT IS IT?
 -----------
@@ -71,7 +71,7 @@ TIPS
 
 
    © 2026 Atenea Store Tools — Internal use only
-
+-----------
 
 
 **IMAGES:**
