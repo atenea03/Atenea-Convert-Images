@@ -1,8 +1,7 @@
---[[
-============================================================
+
    ATENEA IMAGE CONVERTER — Quick Guide v2026
    © 2026 Atenea Store Tools
-============================================================
+
 
 WHAT IS IT?
 -----------
@@ -69,12 +68,11 @@ TIPS
   · Select "All" in the From dropdown to process mixed formats at once.
   · The output folder is created automatically if it does not exist.
   · Filenames are preserved — only the extension changes.
---]]
---[[
-============================================================
+
+
    © 2026 Atenea Store Tools — Internal use only
-============================================================
---]]
+
+
 
 **IMAGES:**
 
