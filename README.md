@@ -1,6 +1,5 @@
 
    ATENEA IMAGE CONVERTER — Quick Guide v2026
-   © 2026 Atenea Store Tools
 -----------
 
 WHAT IS IT?
@@ -70,7 +69,7 @@ TIPS
   · Filenames are preserved — only the extension changes.
 
 
-   © 2026 Atenea Store Tools — Internal use only
+   © 2026 Atenea Store Tools
 -----------
 
 
