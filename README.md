@@ -72,6 +72,7 @@ TIPS
    © 2026 Atenea Store Tools
 -----------
 
+Discord: https://discord.gg/mam8Nmg49d
 
 **IMAGES:**
 
