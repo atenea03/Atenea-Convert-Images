@@ -90,4 +90,4 @@ Discord: https://discord.gg/mam8Nmg49d
 
 **IMAGES:**
 
-![1](https://i.imgur.com/5I8ydIn.png)
+![1](https://i.imgur.com/2HyUjxm.png)
