@@ -21,7 +21,6 @@ No internet connection required. Just open, select, and convert.
 | `ate_convert_images.py` | Source code (developers only). |
 | `ate_convert_images.spec` | PyInstaller config (developers only). |
 | `logo.ico` / `logo.png` | Application icon files. |
-| `build/` | PyInstaller build cache. Do NOT delete. |
 
 > ⚠️ **Do not move or delete any file or folder.**
 > The program needs them in their original location to run correctly.
